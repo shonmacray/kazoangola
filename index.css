@@ -61,3 +61,7 @@ p {
   height: 400px;
   background-color: rgb(165, 168, 170);
 }
+.label {
+  text-transform: uppercase;
+  color: #868585;
+}
